@@ -20,7 +20,7 @@ import {
   Upload,
   RefreshCw
 } from 'lucide-react';
-import api from '../../../realitni-crm/src/services/api';
+import api from '../../services/api';
 import LeadStatus from './LeadStatus';
 import ParametersList from './ParametersList';
 import Timeline from '../layout/Timeline';
