@@ -1,7 +1,7 @@
 // src/pages/LeadDetails.js
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import Timeline from '../components/layout/Timeline';
+import Timeline from '../layout/Timeline';
 
 function LeadDetails() {
   const { id } = useParams();
